@@ -5,7 +5,7 @@
 - Python 2.7
 - Install [scrapy](http://scrapy.org)
 
-    $pip install scrapy
+        $pip install scrapy
 
 ## Run
 ### Data crawling
