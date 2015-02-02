@@ -1,0 +1,237 @@
+{
+  "all": [
+    "Dan Klein (37)", 
+    "Entire volume (37)", 
+    "Ming Zhou (33)", 
+    "Mark Johnson (31)", 
+    "Ido Dagan (30)", 
+    "Qun Liu (27)", 
+    "Kevin Knight (26)", 
+    "Min Zhang (26)", 
+    "Haizhou Li (24)", 
+    "Giorgio Satta (24)"
+  ], 
+  "1997": [
+    "Lillian Lee (2)", 
+    "I. Dan Melamed (2)", 
+    "Yuji Matsumoto (2)"
+  ], 
+  "recent_3yrs": [
+    "Ming Zhou (15)", 
+    "Entire volume (14)", 
+    "Dan Klein (13)", 
+    "Qun Liu (11)", 
+    "Ido Dagan (11)", 
+    "Yang Liu (11)", 
+    "Noah A. Smith (10)", 
+    "Regina Barzilay (9)", 
+    "Mona Diab (9)", 
+    "Iryna Gurevych (9)"
+  ], 
+  "1986": [
+    "G. Edward Barton (2)", 
+    "Eric Sven Ristad (2)", 
+    "Martha E. Pollack (1)"
+  ], 
+  "1987": [
+    "Rebecca J. Passonneau (2)", 
+    "James Pustejovsky (2)", 
+    "William C. Rounds (2)"
+  ], 
+  "1984": [
+    "Ralph M. Weischedel (2)", 
+    "Kathleen R. McKeown (2)", 
+    "Philip J. Hayes (2)"
+  ], 
+  "1985": [
+    "Roy J. Byrd (2)", 
+    "Martin S. Chodorow (2)", 
+    "Carl Pollard (2)"
+  ], 
+  "1982": [
+    "Norman K. Sondheimer (2)", 
+    "Donald E. Walker (2)", 
+    "Kathy Starr (1)"
+  ], 
+  "1983": [
+    "Hans Uszkoreit (2)", 
+    "Donald Hindle (2)", 
+    "Aravind K. Joshi (2)"
+  ], 
+  "1980": [
+    "Phil Hayes (2)", 
+    "Aravind K. Joshi (2)", 
+    "Ralph M. Weischedel (1)"
+  ], 
+  "1981": [
+    "Philip J. Hayes (2)", 
+    "William C. Mann (2)", 
+    "Kate Ehrlich (1)"
+  ], 
+  "recent_10yrs": [
+    "Entire volume (37)", 
+    "Dan Klein (34)", 
+    "Ming Zhou (29)", 
+    "Qun Liu (27)", 
+    "Min Zhang (25)", 
+    "Haizhou Li (24)", 
+    "Yang Liu (23)", 
+    "Ido Dagan (22)", 
+    "Regina Barzilay (21)", 
+    "Kevin Knight (18)"
+  ], 
+  "1988": [
+    "Remko Scha (2)", 
+    "Eduard H. Hovy (2)", 
+    "Martha E. Pollack (1)"
+  ], 
+  "1989": [
+    "Robert C. Moore (2)", 
+    "K. Vijay-Shanker (2)", 
+    "Ralph M. Weischedel (1)"
+  ], 
+  "2011": [
+    "Yang Liu (6)", 
+    "Dan Klein (6)", 
+    "Brian Roark (5)"
+  ], 
+  "2010": [
+    "Dan Klein (7)", 
+    "Entire volume (5)", 
+    "Alexander Koller (4)"
+  ], 
+  "2013": [
+    "Ming Zhou (6)", 
+    "Iryna Gurevych (6)", 
+    "Pushpak Bhattacharyya (6)"
+  ], 
+  "2012": [
+    "Ming Zhou (6)", 
+    "Ido Dagan (5)", 
+    "Mona Diab (4)"
+  ], 
+  "recent_5yrs": [
+    "Dan Klein (24)", 
+    "Entire volume (24)", 
+    "Qun Liu (20)", 
+    "Ming Zhou (20)", 
+    "Yang Liu (18)", 
+    "Ido Dagan (17)", 
+    "Haizhou Li (16)", 
+    "Min Zhang (15)", 
+    "Regina Barzilay (14)", 
+    "Kevin Knight (13)"
+  ], 
+  "recent_20yrs": [
+    "Dan Klein (37)", 
+    "Entire volume (37)", 
+    "Ming Zhou (33)", 
+    "Mark Johnson (28)", 
+    "Qun Liu (27)", 
+    "Ido Dagan (27)", 
+    "Kevin Knight (26)", 
+    "Min Zhang (26)", 
+    "Haizhou Li (24)", 
+    "Regina Barzilay (23)"
+  ], 
+  "1991": [
+    "Robert L. Mercer (2)", 
+    "Ido Dagan (2)", 
+    "Lynn Lambert (2)"
+  ], 
+  "1990": [
+    "Vijay-Shanker, K. (2)", 
+    "Ferrara, Kathleen (1)", 
+    "Bear, John (1)"
+  ], 
+  "1993": [
+    "Rolf Backofen (2)", 
+    "Massimo Poesio (2)", 
+    "Rajeev Sangal (1)"
+  ], 
+  "1992": [
+    "Sandra Carberry (2)", 
+    "Daniel Hardt (2)", 
+    "K. Vijay-Shanker (2)"
+  ], 
+  "1995": [
+    "Vasileios Hatzivassiloglou (2)", 
+    "Daniel Jurafsky (2)", 
+    "David Weir (2)"
+  ], 
+  "1994": [
+    "Jing-Shin Chang (2)", 
+    "Mark-Jan Nederhof (2)", 
+    "Keh-Yih Su (2)"
+  ], 
+  "1979": [
+    "William C. Mann (3)", 
+    "Barbara C. Sangster (1)", 
+    "Don Dwiggins (1)"
+  ], 
+  "1996": [
+    "Richard Sproat (2)", 
+    "Joshua Goodman (2)", 
+    "Giorgio Satta (2)"
+  ], 
+  "1999": [
+    "Stefan Riezler (3)", 
+    "Detlef Prescher (2)", 
+    "Michael Elhadad (2)"
+  ], 
+  "1998": [
+    "Makoto Nagao (4)", 
+    "Michael Dorna (3)", 
+    "Key-Sun Choi (3)"
+  ], 
+  "2002": [
+    "Mark Johnson (3)", 
+    "Jason Eisner (2)", 
+    "Robert Moore (2)"
+  ], 
+  "2003": [
+    "Hitoshi Isahara (5)", 
+    "Yuji Matsumoto (3)", 
+    "Sebastian Pad\u00f3 (2)"
+  ], 
+  "2000": [
+    "Key-Sun Choi (4)", 
+    "Jun'ichi Tsujii (4)", 
+    "Changning Huang (4)"
+  ], 
+  "2001": [
+    "Daniel Marcu (3)", 
+    "Marilyn A. Walker (2)", 
+    "Owen Rambow (2)"
+  ], 
+  "2006": [
+    "Daniel Marcu (6)", 
+    "Haifeng Wang (5)", 
+    "Jun'ichi Tsujii (5)"
+  ], 
+  "2007": [
+    "Hwee Tou Ng (4)", 
+    "Grzegorz Kondrak (3)", 
+    "Dan Jurafsky (3)"
+  ], 
+  "2004": [
+    "Giorgio Satta (3)", 
+    "Chew-Lim Tan (3)", 
+    "Jian Su (3)"
+  ], 
+  "2005": [
+    "Christopher Manning (3)", 
+    "Entire volume (3)", 
+    "Ralph Grishman (2)"
+  ], 
+  "2008": [
+    "Christopher D. Manning (4)", 
+    "Yoav Goldberg (4)", 
+    "Sheng Li (4)"
+  ], 
+  "2009": [
+    "Haizhou Li (6)", 
+    "Yang Liu (5)", 
+    "Entire volume (5)"
+  ]
+}

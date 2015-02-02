@@ -11,7 +11,6 @@ format_tuple = lambda t: '%s (%s)' % (t[0], t[1])
 
 
 def count_and_format(authors, n=10):
-    print Counter(authors).most_common(n)
     return [format_tuple(p) for p in Counter(authors).most_common(n)]
 
 def get_year(year_id):
@@ -52,4 +51,4 @@ if __name__=='__main__':
 
     # Write to file
     with open('top3.json', 'w') as f:
-        json.dump(e, f)
+        json.dump(e, f, indent=2)
